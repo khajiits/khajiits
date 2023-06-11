@@ -20,15 +20,15 @@
 ### 💻 I have experience with
 <img src= "python.svg" widht="30" height="30">
 &nbsp;
-<img src= "https://github.com/matzro/matzro/assets/77325729/51acccd2-8f09-4660-82f6-111c68c68200" widht="30" height="30">
+<img src= "flutter.svg" widht="30" height="30">
 &nbsp;
-<img src= "https://github.com/matzro/matzro/assets/77325729/7c51e3ed-58c7-434a-946c-d611d133be4e" widht="30" height="30">
+<img src= "html.svg" widht="30" height="30">
 &nbsp;
-<img src= "https://github.com/matzro/matzro/assets/77325729/4052d509-fbe6-4b39-9ebf-ce54e7314c78" widht="30" height="30">
+<img src= "java.svg" widht="30" height="30">
 &nbsp;
-<img src= "https://github.com/matzro/matzro/assets/77325729/eed1f8ed-f112-4946-af56-66a49deb6917" widht="30" height="30">
+<img src= "javascript.svg" widht="30" height="30">
 &nbsp;
-<img src= "https://github.com/matzro/matzro/assets/77325729/15daddd3-6901-48e5-8949-ff18fbfca737" widht="30" height="30">
+<img src= "mysql.svg" widht="30" height="30">
 &nbsp;
 <img src= "https://github.com/matzro/matzro/assets/77325729/f93202c3-5af6-4ce6-b10b-f1d85363df11" widht="30" height="30">
 
