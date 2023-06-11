@@ -13,9 +13,9 @@
 
 ### I have experience with
 <img src= "https://github.com/matzro/matzro/assets/77325729/e7876c56-e3c6-4f8b-9f34-d40fcc33a024" widht="48" height="48">
-<img src= "https://github.com/matzro/matzro/assets/77325729/51acccd2-8f09-4660-82f6-111c68c68200">
-<img src= "https://github.com/matzro/matzro/assets/77325729/7c51e3ed-58c7-434a-946c-d611d133be4e">
-<img src= "https://github.com/matzro/matzro/assets/77325729/eed1f8ed-f112-4946-af56-66a49deb6917">
+<img src= "https://github.com/matzro/matzro/assets/77325729/51acccd2-8f09-4660-82f6-111c68c68200" widht="48" height="48">
+<img src= "https://github.com/matzro/matzro/assets/77325729/7c51e3ed-58c7-434a-946c-d611d133be4e" widht="48" height="48">
+<img src= "https://github.com/matzro/matzro/assets/77325729/eed1f8ed-f112-4946-af56-66a49deb6917" widht="48" height="48">
 
 
 ### ⚡ Fun facts:
