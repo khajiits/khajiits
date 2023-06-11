@@ -34,7 +34,7 @@
 <img src= "php.svg" widht="30" height="30">
 </p>
 
-### ⚡ Fun facts:
+### ⚡ Fun facts
 * I love video games
 * Drawing is one of my favorite hobbies
 * I am gaining interest in yoga
