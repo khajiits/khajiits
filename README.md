@@ -20,12 +20,11 @@
 ### 💻 I have experience with
 <p float="left">
 <img src= "python.svg" widht="30" height="30">
+<img src= "javascript.svg" widht="30" height="30">
 <img src= "flutter.svg" widht="30" height="30">
 <img src= "html.svg" widht="30" height="30">
 <img src= "java.svg" widht="30" height="30">
-<img src= "javascript.svg" widht="30" height="30">
 <img src= "mysql.svg" widht="30" height="30">
-<img src= "https://github.com/matzro/matzro/assets/77325729/f93202c3-5af6-4ce6-b10b-f1d85363df11" widht="30" height="30">
 </p>
 
 ### ⚡ Fun facts:
