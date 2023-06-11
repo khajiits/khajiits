@@ -42,7 +42,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
-LinkedIn -> https://www.linkedin.com/in/matilde-rosa-036441269/
+<p> LinkedIn -> https://www.linkedin.com/in/matilde-rosa-036441269/</p>
 Send me an email -> matilderosa216@gmail.com
 
 <!--
