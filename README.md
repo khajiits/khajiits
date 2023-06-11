@@ -3,7 +3,6 @@
 ### 📖 About Me
 * Bachelor of Computer Science and Engineering @ University of Beira Interior (2020-2023)
 * I find myself very creative and capable of solving many problems
-* 
 * I'm interested in the areas...
   - Web Development
   - Mobile App Development
@@ -38,7 +37,7 @@
 * I am gaining interest in yoga
 
 ### 📫 How to reach me
-
+https://www.linkedin.com/in/matilde-rosa-036441269/
 
 
 <!--
