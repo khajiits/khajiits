@@ -43,6 +43,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
+![Alt Text](anime-1980s.gif)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matilde-rosa-036441269/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matilderosa216@gmail.com)
