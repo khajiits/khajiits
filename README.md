@@ -1,8 +1,14 @@
 ## Hi there! I'm Matilde 👋
 
 ### 📖 About Me
-* Computer Science and Engineering Graduate from University of Beira Interior (2020-2023)
-* I'm interested in the areas of web development, app development and security
+* Bachelor of Computer Science and Engineering @ University of Beira Interior (2020-2023)
+* I find myself very creative and capable of solving many problems
+* 
+* I'm interested in the areas...
+  - Web Development
+  - Mobile App Development
+  - Game Development
+  - Information Security
 
 ### ⬆ My ongoing pursuits
 * 🔭 I'm currently working on my university Final Project!
