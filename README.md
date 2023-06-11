@@ -12,6 +12,7 @@
 ### ⬆ My ongoing pursuits
 * 🔭 I'm currently working on my university Final Project!
 * 🌱 I'm learning Flutter
+* Continue my modding Skyrim project
 * In the near future I plan to...
   - ✈️ Travel a lot!
   - Learn Ruby, TypeScript, Angular and React
