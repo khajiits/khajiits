@@ -36,9 +36,9 @@
 
 ### ⚡ Fun facts:
 * I love video games
-* Gardening is one of my favorite hobbies
+* Drawing is one of my favorite hobbies
 * I am gaining interest in yoga
-* Sometimes I like to draw
+* Sometimes I like to do some gardening :)
 
 ### 📫 How to reach me
 Linkedin -> https://www.linkedin.com/in/matilde-rosa-036441269/
