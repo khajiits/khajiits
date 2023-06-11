@@ -40,9 +40,7 @@
 * I am gaining interest in yoga
 
 ### 📫 How to reach me
-<a href="https://www.linkedin.com/in/matilde-rosa-036441269/">
-  <img src="https://github.com/matzro/matzro/assets/77325729/277b8e52-c7d7-4082-8070-46536e73c8e2" widht="30" height="30">
-</a>
+[<img src="https://github.com/matzro/matzro/assets/77325729/277b8e52-c7d7-4082-8070-46536e73c8e2" widht="30" height="30">](https://www.linkedin.com/in/matilde-rosa-036441269/)
 
 <!--
 **khajiits/khajiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
