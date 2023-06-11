@@ -1,7 +1,7 @@
 ## Hi there! I'm Matilde 👋
 
 ### 📖 About Me
-* Bachelor of Computer Science and Engineering @ University of Beira Interior (2020-2023)
+* 🎓 Bachelor of Computer Science and Engineering @ University of Beira Interior (2020-2023)
 * I find myself very creative and capable of solving many problems
 * I'm interested in the areas...
   - Web Development
