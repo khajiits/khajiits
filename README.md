@@ -43,6 +43,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
 LinkedIn -> https://www.linkedin.com/in/matilde-rosa-036441269/
+Send me an email -> matilderosa216@gmail.com
 
 <!--
 **khajiits/khajiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
