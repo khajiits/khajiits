@@ -32,15 +32,13 @@
 &nbsp;
 <img src= "https://github.com/matzro/matzro/assets/77325729/f93202c3-5af6-4ce6-b10b-f1d85363df11" widht="30" height="30">
 
-
-
 ### ⚡ Fun facts:
 * I love video games
 * Gardening is one of my favorite hobbies
 * I am gaining interest in yoga
 
 ### 📫 How to reach me
-[<img src="https://github.com/matzro/matzro/assets/77325729/277b8e52-c7d7-4082-8070-46536e73c8e2" widht="30" height="30">](https://www.linkedin.com/in/matilde-rosa-036441269/)
+Linkedin -> https://www.linkedin.com/in/matilde-rosa-036441269/
 
 <!--
 **khajiits/khajiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
