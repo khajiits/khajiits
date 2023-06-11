@@ -17,7 +17,7 @@
   - Learn Ruby
   - Learn more about game development
 
-### I have experience with
+### 💻 I have experience with
 <img src= "https://github.com/matzro/matzro/assets/77325729/e7876c56-e3c6-4f8b-9f34-d40fcc33a024" widht="30" height="30">
 &nbsp;
 <img src= "https://github.com/matzro/matzro/assets/77325729/51acccd2-8f09-4660-82f6-111c68c68200" widht="30" height="30">
