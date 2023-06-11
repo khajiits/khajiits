@@ -8,8 +8,8 @@
 * 🔭 I'm currently working on my university Final Project!
 * 🌱 I'm learning Flutter
 * In the near future I plan to...
-*   ✈️ Travel a lot!
-*   Learn more about game development
+** ✈️ Travel a lot!
+** Learn more about game development
 
 ### I have experience with
 <img src= "https://github.com/matzro/matzro/assets/77325729/e7876c56-e3c6-4f8b-9f34-d40fcc33a024" widht="30" height="30">
