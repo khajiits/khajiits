@@ -30,6 +30,8 @@
 <img src= "java.svg" widht="30" height="30">
 &nbsp;
 <img src= "mysql.svg" widht="30" height="30">
+&nbsp;
+<img src= "php.svg" widht="30" height="30">
 </p>
 
 ### ⚡ Fun facts:
