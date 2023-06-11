@@ -9,6 +9,7 @@
 * 🌱 I'm learning Flutter
 * In the near future I plan to...
   - ✈️ Travel a lot!
+  - Learn Ruby
   - Learn more about game development
 
 ### I have experience with
