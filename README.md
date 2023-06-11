@@ -41,10 +41,6 @@
 * I am gaining interest in yoga
 * Sometimes I like to do some gardening :)
 
-<p align="center">
-  <img src="anime-1980s.gif" width="500"/>
-</p>
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matilde-rosa-036441269/)
