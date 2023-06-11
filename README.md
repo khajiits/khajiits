@@ -41,14 +41,15 @@
 * I am gaining interest in yoga
 * Sometimes I like to do some gardening :)
 
+<p align="center">
+  <img src="anime-1980s.gif" />
+</p>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matilde-rosa-036441269/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matilderosa216@gmail.com)
-<p align="center">
-  <img src="anime-1980s.gif" />
-</p>
 <!--
 **khajiits/khajiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
