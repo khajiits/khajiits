@@ -29,6 +29,9 @@
 <img src= "https://github.com/matzro/matzro/assets/77325729/eed1f8ed-f112-4946-af56-66a49deb6917" widht="30" height="30">
 &nbsp;
 <img src= "https://github.com/matzro/matzro/assets/77325729/15daddd3-6901-48e5-8949-ff18fbfca737" widht="30" height="30">
+&nbsp;
+<img src= "https://github.com/matzro/matzro/assets/77325729/f93202c3-5af6-4ce6-b10b-f1d85363df11" widht="30" height="30">
+
 
 
 ### ⚡ Fun facts:
@@ -37,8 +40,9 @@
 * I am gaining interest in yoga
 
 ### 📫 How to reach me
-https://www.linkedin.com/in/matilde-rosa-036441269/
-
+<a href="https://www.linkedin.com/in/matilde-rosa-036441269/">
+  <img src="https://github.com/matzro/matzro/assets/77325729/277b8e52-c7d7-4082-8070-46536e73c8e2" widht="30" height="30">
+</a>
 
 <!--
 **khajiits/khajiits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
