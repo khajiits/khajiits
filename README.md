@@ -38,6 +38,7 @@
 * I love video games
 * Gardening is one of my favorite hobbies
 * I am gaining interest in yoga
+* Sometimes I like to draw
 
 ### 📫 How to reach me
 Linkedin -> https://www.linkedin.com/in/matilde-rosa-036441269/
