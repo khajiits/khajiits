@@ -10,11 +10,10 @@
   - Information Security
 
 ### ⬆ My ongoing pursuits
-* 🔭 I'm currently working on my university Final Project!
-* 🌱 I'm learning Flutter
+* 🔭 I'm currently deepening my knowledge in Web Development
+* 🌱 I'm learning Bootstrap, Node.js, Express.js, React.js...
 * In the near future I plan to...
   - ✈️ Travel a lot!
-  - Learn Ruby, TypeScript, Angular and React
   - Continue my modding Skyrim project
   - Learn more about game development
 
