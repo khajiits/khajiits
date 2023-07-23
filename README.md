@@ -18,21 +18,7 @@
   - Learn more about game development
 
 ### 💻 I have experience with
-<p float="left">
-<img src= "python.svg" widht="30" height="30">
-&nbsp;
-<img src= "javascript.svg" widht="30" height="30">
-&nbsp;
-<img src= "flutter.svg" widht="30" height="30">
-&nbsp;
-<img src= "html.svg" widht="30" height="30">
-&nbsp;
-<img src= "java.svg" widht="30" height="30">
-&nbsp;
-<img src= "mysql.svg" widht="30" height="30">
-&nbsp;
-<img src= "php.svg" widht="30" height="30">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,flutter,java,mysql,php,py,spring)](https://skillicons.dev)
 
 ### ⚡ Fun facts
 * I love video games
