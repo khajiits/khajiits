@@ -18,7 +18,7 @@
   - Learn more about game development
 
 ### 💻 I have experience with
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,ocaml,flutter,java,mysql,php,py,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,flutter,java,cs,mysql,php,py,spring,git,ocaml)](https://skillicons.dev)
 
 ### ⚡ Fun facts
 * I love video games
