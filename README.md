@@ -24,7 +24,7 @@
 * I love video games
 * Drawing is one of my favorite hobbies
 * I am gaining interest in yoga
-* Sometimes I like to do some gardening :)
+* I really enjoy a good meal 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📫 How to reach me
